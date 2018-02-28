@@ -1,4 +1,4 @@
-package com.example.android.tabexperiment;
+package com.example.firasyan.tabexperiment;
 
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
