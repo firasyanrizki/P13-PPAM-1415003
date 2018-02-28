@@ -1,4 +1,4 @@
-package com.example.android.tabexperiment;
+package com.example.firasyan.tabexperiment;
 
 import org.junit.Test;
 
